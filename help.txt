@@ -1,0 +1,19 @@
+將js 修改成讀取json array  已完成!
+
+ps.
+有些讀出來是objeuct 用法不同
+可用這個網址查看數據格式
+https://jsoneditoronline.org/
+如果是objeuct可參考官網說明  範例
+http://tableau.github.io/webdataconnector/docs/wdc_tutorial
+
+js json arrays說明
+https://www.w3schools.com/js/js_json_arrays.asp
+
+多頁面github
+
+https://github.com/jeffkritzman/scratch
+
+官方多頁面
+https://tableau.github.io/webdataconnector/docs/wdc_multi_table_tutorial
+
